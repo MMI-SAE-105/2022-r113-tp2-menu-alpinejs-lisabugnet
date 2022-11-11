@@ -4,7 +4,7 @@
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: rgb(248, 231, 133);
+    background-color: rgb(167, 224, 247);
     display: grid;
     place-content: center;}
   .header__menuBtn{
